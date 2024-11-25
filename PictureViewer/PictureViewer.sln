@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureViewer", "PictureViewer.csproj", "{8C440F76-D6F8-4741-B6B1-8FCE1C72933A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C440F76-D6F8-4741-B6B1-8FCE1C72933A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C440F76-D6F8-4741-B6B1-8FCE1C72933A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C440F76-D6F8-4741-B6B1-8FCE1C72933A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C440F76-D6F8-4741-B6B1-8FCE1C72933A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A4D722D-7832-4205-A4E1-AE101F441964}
+	EndGlobalSection
+EndGlobal
